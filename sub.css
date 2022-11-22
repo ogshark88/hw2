@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Oswald", sans-serif;
+  font-weight: 500;
+  /* text-transform: uppercase; */
+}
+
+#first-content {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+
+
+#part1 {
+  background: #b1d1e1;
+  margin: auto;
+}
+
+#part2{
+  background-color: rgb(236, 251, 214);
+  margin: auto;
+}
+#part3{
+  background: #b1d1e1;
+  margin: auto;
+}
+
+
